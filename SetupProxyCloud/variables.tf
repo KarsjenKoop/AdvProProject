@@ -4,12 +4,12 @@ variable "project" {
 
 variable "region" {
   description = "Google Cloud region"
-  default     = "us-central1"
+  default     = "eu-west4"
 }
 
 variable "zone" {
   description = "Google Cloud zone"
-  default     = "us-central1-a"
+  default     = "eu-west4-a"
 }
 
 variable "instance_count" {
