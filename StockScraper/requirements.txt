@@ -1,0 +1,7 @@
+pandas
+selenium
+tqdm
+jupyter
+ipykernel
+plotly
+lxml
